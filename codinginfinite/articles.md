@@ -1,1 +1,63 @@
 # This file contains links to articles at codinginfinite.com
+[Author page](https://codinginfinite.com/author/aditya/)
+
+## Articles
+- [Ensembling Techniques in Machine Learning](https://codinginfinite.com/ensembling-techniques-in-machine-learning/).
+- [Naive Bayes Classification Numerical Example](https://codinginfinite.com/naive-bayes-classification-numerical-example/).
+- [Overfitting and Underfitting in Machine Learning](https://codinginfinite.com/overfitting-and-underfitting-in-machine-learning/).
+- [Bias and Variance in Machine Learning](https://codinginfinite.com/bias-and-variance-in-machine-learning/).
+- [Entity Embedding in Python](https://codinginfinite.com/entity-embedding-in-python/).
+- [One Hot Encoding in Python](https://codinginfinite.com/one-hot-encoding-in-python/).
+- [Implement Label Encoding in Python and PySpark](https://codinginfinite.com/implement-label-encoding-in-python-and-pyspark/).
+- [Implement FP Growth Algorithm in Python](https://codinginfinite.com/implement-fp-growth-algorithm-in-python/).
+- [Categorical Data Encoding Techniques Explained](https://codinginfinite.com/categorical-data-encoding-techniques-explained/).
+- [Categorical Data Explained With Examples](https://codinginfinite.com/categorical-data-explained-with-examples/).
+- [Implement Apriori Algorithm in Python](https://codinginfinite.com/implement-apriori-algorithm-in-python/).
+- [ECLAT Algorithm Numerical Example](https://codinginfinite.com/eclat-algorithm-numerical-example/).
+- [Linear Regression vs Logistic Regression in Machine Learning](https://codinginfinite.com/linear-regression-vs-logistic-regression-in-machine-learning/).
+- [Classification vs Regression in Machine Learning](https://codinginfinite.com/classification-vs-regression-in-machine-learning/).
+- [Clustering vs Classification Explained With Examples](https://codinginfinite.com/clustering-vs-classification-explained-with-examples/).
+- [FP Growth Algorithm Explained With Numerical Example](https://codinginfinite.com/fp-growth-algorithm-explained-with-numerical-example/).
+- [Apriori Algorithm Numerical Example](https://codinginfinite.com/apriori-algorithm-numerical-example/).
+- [Association Rule Mining Explained With Examples](https://codinginfinite.com/association-rule-mining-explained-with-examples/).
+- [KNN vs KMeans: Similarities and Differences](https://codinginfinite.com/knn-vs-kmeans-similarities-and-differences/).
+- [Market Basket Analysis in Data Mining](https://codinginfinite.com/market-basket-analysis-in-data-mining/).
+- [KNN Classification From Scratch in Python](https://codinginfinite.com/knn-classification-from-scratch-in-python/).
+- [KNN Regression Using sklearn Module in Python](https://codinginfinite.com/knn-regression-using-sklearn-module-in-python/).
+- [KNN Regression Numerical Example](https://codinginfinite.com/knn-regression-numerical-example/).
+- [KNN Classification Using sklearn Module in Python](https://codinginfinite.com/knn-classification-using-sklearn-module-in-python/).
+- [KNN Classification Numerical Example](https://codinginfinite.com/knn-classification-numerical-example/).
+- [Classification Algorithms in Machine Learning](https://codinginfinite.com/classification-algorithms-in-machine-learning/).
+- [Hierarchical Clustering for Categorical and Mixed Data Types in Python](https://codinginfinite.com/hierarchical-clustering-for-categorical-and-mixed-data-types-in-python/).
+- [Find Clusters From Dendrogram in Hierarchical Clustering Using Python](https://codinginfinite.com/find-clusters-from-dendrogram-in-hierarchical-clustering/).
+- [Agglomerative Clustering in Python Using sklearn Module](https://codinginfinite.com/agglomerative-clustering-in-python-using-sklearn-module/).
+- [Plot Dendrogram in Python](https://codinginfinite.com/plot-dendrogram-in-python/).
+- [Agglomerative Clustering Numerical Example, Advantages and Disadvantages](https://codinginfinite.com/agglomerative-clustering-numerical-example-advantages-and-disadvantages/).
+- [Hierarchical Clustering: Applications, Advantages, and Disadvantages](https://codinginfinite.com/hierarchical-clustering-applications-advantages-and-disadvantages/).
+- [Silhouette Coefficient For K-Modes and K-Prototypes Clustering](https://codinginfinite.com/silhouette-coefficient-for-k-modes-and-k-prototypes-clustering/).
+- [Silhouette Coefficient Approach in Python For K-Means Clustering](https://codinginfinite.com/silhouette-coefficient-approach-in-python-for-k-means-clustering/).
+- [Elbow Method in Python for K-Means and K-Modes Clustering](https://codinginfinite.com/elbow-method-in-python-for-k-means-and-k-modes-clustering/).
+- [Elbow Method to Find Best K in K-Prototypes Clustering](https://codinginfinite.com/find-the-best-k-in-k-prototypes-clustering/).
+- [Clustering For Mixed Data Types in Python](https://codinginfinite.com/clustering-for-mixed-data-types-in-python/).
+- [K-Prototypes Clustering With Numerical Example](https://codinginfinite.com/k-prototypes-clustering-with-numerical-example/).
+- [MLOps: A Complete Guide For Beginners](https://codinginfinite.com/mlops-a-complete-guide-for-beginners/).
+- [K-Medoids Clustering Algorithm With Numerical Example](https://codinginfinite.com/k-medoids-clustering-algorithm-with-numerical-example/).
+- [K-Modes Clustering For Categorical Data in Python](https://codinginfinite.com/k-modes-clustering-for-categorical-data-in-python/).
+- [K-Modes Clustering Algorithm With Numerical Example](https://codinginfinite.com/k-modes-clustering-algorithm-with-numerical-example/).
+- [Recommendation System in Machine Learning](https://codinginfinite.com/recommendation-system-in-machine-learning/).
+- [Mlflow Tutorial With Code Example](https://codinginfinite.com/mlflow-tutorial-with-code-example/).
+- [K-Means Clustering Using sklearn in Python](https://codinginfinite.com/k-means-clustering-using-sklearn-in-python/).
+- [K-means Clustering Algorithm With Numerical Example](https://codinginfinite.com/k-means-clustering-explained-with-numerical-example/).
+- [Clustering in Machine Learning Explained With Examples](https://codinginfinite.com/clustering-in-machine-learning-explained-with-examples/).
+- [Polynomial Regression Using sklearn Module in Python](https://codinginfinite.com/polynomial-regression-using-sklearn-module-in-python/).
+- [Logistic Regression Using sklearn Module in Python](https://codinginfinite.com/logistic-regression-using-sklearn-module-in-python/).
+- [Multiple Regression Analysis Using sklearn Module in Python](https://codinginfinite.com/multiple-regression-analysis-using-sklearn-module-in-python/).
+- [Linear Regression Using sklearn in Python](https://codinginfinite.com/linear-regression-using-sklearn-in-python/).
+- [Regression in Machine Learning With Examples](https://codinginfinite.com/regression-in-machine-learning-with-examples/).
+- [Data Cleaning Steps Explained](https://codinginfinite.com/data-cleaning-steps-explained/).
+- [Data Preprocessing Explained](https://codinginfinite.com/data-preprocessing-explained/).
+- [Machine Learning Tools You Must Try in 2022](https://codinginfinite.com/machine-learning-tools-you-must-try-in-2022/).
+- [Machine Learning Techniques You Must Know in 2023](https://codinginfinite.com/machine-learning-techniques-you-must-know-in-2022/).
+- [Trending Machine Learning Applications in 2022](https://codinginfinite.com/trending-machine-learning-applications-in-2022/).
+- [Machine Learning: An Introduction](https://codinginfinite.com/machine-learning-an-introduction/).
+- [Best Coding Apps For Android in 2022](https://codinginfinite.com/best-coding-apps-for-android-in-2022/).
