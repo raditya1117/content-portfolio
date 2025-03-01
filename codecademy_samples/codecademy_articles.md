@@ -1,4 +1,5 @@
 # Content written for Codecademy
+[Codecademy Author Profile](https://www.codecademy.com/pages/aditya-raj)
 
 ## Courses
 - [Learn Git & GitHub (Updated and added new content and quizzes)](https://www.codecademy.com/learn/learn-git).
