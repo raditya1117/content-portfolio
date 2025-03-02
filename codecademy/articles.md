@@ -21,6 +21,7 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
 - [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
 - [Getting Started with LangChain Prompt Templates](https://www.codecademy.com/article/getting-started-with-lang-chain-prompt-templates).
 - [Implementing Memory in LLM Applications Using LangChain](https://www.codecademy.com/article/implementing-memory-in-llm-applications-using-lang-chain).
