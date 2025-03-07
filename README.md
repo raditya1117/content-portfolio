@@ -26,6 +26,7 @@ This repository contains links to my works at different websites. Following are 
 - [Callback function in Python](https://java2blog.com/python-callback-function/)
 
 ## Generative AI Topics
+- [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
 - [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
 - [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
 - [Getting Started with LangChain Prompt Templates](https://www.codecademy.com/article/getting-started-with-lang-chain-prompt-templates).
