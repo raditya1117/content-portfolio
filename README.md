@@ -1,12 +1,24 @@
 This repository contains links to my works at different websites. Following are some of the articles on different topics that show my technical and writing skills. 
 
-## Machine Learning Articles
+## Machine learning topics
 - [FP Growth Algorithm Explained With Numerical Example](https://codinginfinite.com/fp-growth-algorithm-explained-with-numerical-example/).
 - [KNN Classification From Scratch in Python](https://codinginfinite.com/knn-classification-from-scratch-in-python/).
 - [Hierarchical Clustering for Categorical and Mixed Data Types in Python](https://codinginfinite.com/hierarchical-clustering-for-categorical-and-mixed-data-types-in-python/).
 - [Polynomial Regression Using sklearn Module in Python](https://codinginfinite.com/polynomial-regression-using-sklearn-module-in-python/).
 - [Logistic Regression Using sklearn Module in Python](https://codinginfinite.com/logistic-regression-using-sklearn-module-in-python/).
 - [Machine-learning life-cycle management using MLflow](https://www.honeybadger.io/blog/machine-learning-lifecycle-management-using-mlflow/).
+
+## Generative AI topics
+- [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
+- [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
+- [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
+- [Getting Started with LangChain Prompt Templates](https://www.codecademy.com/article/getting-started-with-lang-chain-prompt-templates).
+- [Implementing Memory in LLM Applications Using LangChain](https://www.codecademy.com/article/implementing-memory-in-llm-applications-using-lang-chain).
+
+## Deep learning topics
+- [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
+- [Building a Neural Network Model Using TensorFlow](https://www.codecademy.com/article/building-a-neural-network-model-using-tensorflow)
+- [PyTorch vs TensorFlow: Choosing the Best Framework for Deep Learning ](https://www.codecademy.com/article/pytorch-vs-tensorflow-choosing-the-best-framework-for-deep-learning).
 
 ## Python Articles
 - [Building command-line applications in Python](https://www.honeybadger.io/blog/building-command-line-applications-in-python-a-comprehensive-guide/).
@@ -25,13 +37,6 @@ This repository contains links to my works at different websites. Following are 
 - [How to Add Value Labels on Matplotlib Bar Chart](https://www.delftstack.com/howto/matplotlib/add-value-labels-on-matplotlib-bar-chart/)
 - [Callback function in Python](https://java2blog.com/python-callback-function/)
 
-## Generative AI Topics
-- [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
-- [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
-- [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
-- [Getting Started with LangChain Prompt Templates](https://www.codecademy.com/article/getting-started-with-lang-chain-prompt-templates).
-- [Implementing Memory in LLM Applications Using LangChain](https://www.codecademy.com/article/implementing-memory-in-llm-applications-using-lang-chain).
-
 ## Data science topics
 - [Differences Between Z-Test and T-Test](https://www.codecademy.com/article/differences-between-z-test-and-t-test).
 - [12 Bad Data Visualization Examples Explained](https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/).
@@ -46,7 +51,6 @@ This repository contains links to my works at different websites. Following are 
 - [Difference Between Left Join and Left Outer Join in SQL](https://www.codecademy.com/article/difference-between-left-join-and-left-outer-join-in-sql).
 
 ## General Programming topics
-- [PyTorch vs TensorFlow: Choosing the Best Framework for Deep Learning ](https://www.codecademy.com/article/pytorch-vs-tensorflow-choosing-the-best-framework-for-deep-learning).
 - [Effective Strategies For Debugging Code](https://www.codeconquest.com/blog/effective-strategies-for-debugging-code/).
 - [Code Refactoring Techniques Explained](https://www.codeconquest.com/blog/code-refactoring-techniques-explained/).
 - [Getting Started with GitHub Actions](https://www.codecademy.com/courses/learn-git/articles/getting-started-with-github-actions).
