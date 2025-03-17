@@ -21,6 +21,8 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
+- [Building a Neural Network Model Using TensorFlow](https://www.codecademy.com/article/building-a-neural-network-model-using-tensorflow)
 - [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
 - [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
 - [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
