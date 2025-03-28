@@ -16,6 +16,7 @@ This repository contains links to my works at different websites. Following are 
 - [Implementing Memory in LLM Applications Using LangChain](https://www.codecademy.com/article/implementing-memory-in-llm-applications-using-lang-chain).
 
 ## Deep learning topics
+- [Understanding Convolutional Neural Network (CNN) Architecture](https://www.codecademy.com/article/understanding-convolutional-neural-network-cnn-architecture)
 - [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
 - [Building a Neural Network Model Using TensorFlow](https://www.codecademy.com/article/building-a-neural-network-model-using-tensorflow)
 - [PyTorch vs TensorFlow: Choosing the Best Framework for Deep Learning ](https://www.codecademy.com/article/pytorch-vs-tensorflow-choosing-the-best-framework-for-deep-learning).
@@ -46,6 +47,7 @@ This repository contains links to my works at different websites. Following are 
 - [Visualization Wheel by Alberto Cairo](https://www.codeconquest.com/blog/visualization-wheel-by-alberto-cairo/).
 
 ## Databases
+- [First Normal Form (1NF) in DBMS](https://www.codecademy.com/article/first-normal-form-1nf-in-dbms)
 - [MongoDB Aggregation Pipelines: A Hands-on Tutorial ](https://www.codecademy.com/article/mongodb-aggregation-pipeline).
 - [MongoDB Aggregation Stages Explained](https://www.codecademy.com/article/mongodb-aggregation).
 - [Difference Between Left Join and Left Outer Join in SQL](https://www.codecademy.com/article/difference-between-left-join-and-left-outer-join-in-sql).
