@@ -21,6 +21,8 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [Understanding Convolutional Neural Network (CNN) Architecture](https://www.codecademy.com/article/understanding-convolutional-neural-network-cnn-architecture)
+- [First Normal Form (1NF) in DBMS](https://www.codecademy.com/article/first-normal-form-1nf-in-dbms)
 - [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
 - [Building a Neural Network Model Using TensorFlow](https://www.codecademy.com/article/building-a-neural-network-model-using-tensorflow)
 - [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
