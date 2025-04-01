@@ -4,6 +4,7 @@
 ## Courses
 - [Learn Git & GitHub (Updated and added new content and quizzes)](https://www.codecademy.com/learn/learn-git).
 - [Learn GitHub: Privacy, Security, and Administration](https://www.codecademy.com/learn/learn-github-privacy-security-and-administration).
+- [Learn GitHub: Actions and Codespaces](https://www.codecademy.com/learn/learn-github-actions-and-codespaces)
 - [Learn Python3 (Updated and added new content and quizzes)](https://www.codecademy.com/learn/learn-python-3).
 
 The following articles were written as a part of the above courses.
