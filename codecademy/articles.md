@@ -22,6 +22,9 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [What is One Hot Encoding and How to Implement it in Python?](https://www.codecademy.com/article/what-is-one-hot-encoding-and-how-to-implement-it-in-python)
+- [Rectified Linear Unit (ReLU) Function in Deep Learning](https://www.codecademy.com/article/rectified-linear-unit-relu-function-in-deep-learning)
+- [Standard Normal Distribution Explained with Real-World Examples](https://www.codecademy.com/article/standard-normal-distribution-explained-with-real-world-examples)
 - [Understanding Convolutional Neural Network (CNN) Architecture](https://www.codecademy.com/article/understanding-convolutional-neural-network-cnn-architecture)
 - [First Normal Form (1NF) in DBMS](https://www.codecademy.com/article/first-normal-form-1nf-in-dbms)
 - [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
