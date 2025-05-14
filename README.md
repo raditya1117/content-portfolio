@@ -56,6 +56,7 @@ This repository contains links to my works at different websites. Following are 
 - [Difference Between Left Join and Left Outer Join in SQL](https://www.codecademy.com/article/difference-between-left-join-and-left-outer-join-in-sql).
 
 ## General Programming topics
+- [FastAPI vs Flask: Key Differences, Performance, and Use Cases](https://www.codecademy.com/article/fastapi-vs-flask-key-differences-performance-and-use-cases)
 - [Effective Strategies For Debugging Code](https://www.codeconquest.com/blog/effective-strategies-for-debugging-code/).
 - [Code Refactoring Techniques Explained](https://www.codeconquest.com/blog/code-refactoring-techniques-explained/).
 - [Getting Started with GitHub Actions](https://www.codecademy.com/courses/learn-git/articles/getting-started-with-github-actions).
