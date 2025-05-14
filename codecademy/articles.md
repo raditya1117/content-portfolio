@@ -22,6 +22,7 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [FastAPI vs Flask: Key Differences, Performance, and Use Cases](https://www.codecademy.com/article/fastapi-vs-flask-key-differences-performance-and-use-cases)
 - [What is One Hot Encoding and How to Implement it in Python?](https://www.codecademy.com/article/what-is-one-hot-encoding-and-how-to-implement-it-in-python)
 - [Rectified Linear Unit (ReLU) Function in Deep Learning](https://www.codecademy.com/article/rectified-linear-unit-relu-function-in-deep-learning)
 - [Standard Normal Distribution Explained with Real-World Examples](https://www.codecademy.com/article/standard-normal-distribution-explained-with-real-world-examples)
