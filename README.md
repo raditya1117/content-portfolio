@@ -10,6 +10,7 @@ This repository contains links to my works at different websites. Following are 
 - [Machine-learning life-cycle management using MLflow](https://www.honeybadger.io/blog/machine-learning-lifecycle-management-using-mlflow/).
 
 ## Generative AI topics
+- [How to Use Model Context Protocol (MCP) with Claude](https://www.codecademy.com/article/how-to-use-model-context-protocol-mcp-with-claude-step-by-step-guide-with-examples)
 - [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
 - [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
 - [Chain of thought (CoT) prompting](https://www.codecademy.com/article/chain-of-thought-cot-prompting).
