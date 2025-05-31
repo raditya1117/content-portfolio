@@ -1,6 +1,7 @@
 This repository contains links to my works at different websites. Following are some of the articles on different topics that show my technical and writing skills. 
 
 ## Machine learning topics
+- [Linear Regression with scikit-learn: A Step-by-Step Guide Using Python](https://www.codecademy.com/article/linear-regression-with-scikit-learn-a-step-by-step-guide-using-python)
 - [What is One Hot Encoding and How to Implement it in Python?](https://www.codecademy.com/article/what-is-one-hot-encoding-and-how-to-implement-it-in-python)
 - [FP Growth Algorithm Explained With Numerical Example](https://codinginfinite.com/fp-growth-algorithm-explained-with-numerical-example/).
 - [KNN Classification From Scratch in Python](https://codinginfinite.com/knn-classification-from-scratch-in-python/).
@@ -18,6 +19,7 @@ This repository contains links to my works at different websites. Following are 
 - [Implementing Memory in LLM Applications Using LangChain](https://www.codecademy.com/article/implementing-memory-in-llm-applications-using-lang-chain).
 
 ## Deep learning topics
+- [Stochastic Gradient Descent (SGD) Explained With Implementation in R](https://www.codecademy.com/article/stochastic-gradient-descent-sgd-explained-with-implementation-in-r)
 - [Rectified Linear Unit (ReLU) Function in Deep Learning](https://www.codecademy.com/article/rectified-linear-unit-relu-function-in-deep-learning)
 -  [Understanding Convolutional Neural Network (CNN) Architecture](https://www.codecademy.com/article/understanding-convolutional-neural-network-cnn-architecture)
 - [Understanding Neural Networks and Their Components](https://www.codecademy.com/article/understanding-neural-networks-and-their-components)
