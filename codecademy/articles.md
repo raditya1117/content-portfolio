@@ -22,6 +22,8 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [Stochastic Gradient Descent (SGD) Explained With Implementation in R](https://www.codecademy.com/article/stochastic-gradient-descent-sgd-explained-with-implementation-in-r)
+- [Linear Regression with scikit-learn: A Step-by-Step Guide Using Python](https://www.codecademy.com/article/linear-regression-with-scikit-learn-a-step-by-step-guide-using-python)
 - [How to Use Model Context Protocol (MCP) with Claude](https://www.codecademy.com/article/how-to-use-model-context-protocol-mcp-with-claude-step-by-step-guide-with-examples)
 - [FastAPI vs Flask: Key Differences, Performance, and Use Cases](https://www.codecademy.com/article/fastapi-vs-flask-key-differences-performance-and-use-cases)
 - [What is One Hot Encoding and How to Implement it in Python?](https://www.codecademy.com/article/what-is-one-hot-encoding-and-how-to-implement-it-in-python)
