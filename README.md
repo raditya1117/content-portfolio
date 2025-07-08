@@ -11,6 +11,8 @@ This repository contains links to my works at different websites. Following are 
 - [Machine-learning life-cycle management using MLflow](https://www.honeybadger.io/blog/machine-learning-lifecycle-management-using-mlflow/).
 
 ## Generative AI topics
+- [Build an AI Travel Assistant With Google Agent Development Kit (ADK)](https://www.codecademy.com/article/build-an-ai-travel-assistant-with-google-agent-development-kit-adk)
+- [Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot](https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot)
 - [How to Use Model Context Protocol (MCP) with Claude](https://www.codecademy.com/article/how-to-use-model-context-protocol-mcp-with-claude-step-by-step-guide-with-examples)
 - [Building LangChain Agents for LLM Applications in Python](https://www.codecademy.com/article/building-langchain-agents-for-llm-applications-in-python)
 - [Fine-Tuning Large Language Models (LLMs) in Python](https://www.codecademy.com/article/fine-tuning-large-language-models-llms-in-python)
@@ -44,6 +46,7 @@ This repository contains links to my works at different websites. Following are 
 - [Callback function in Python](https://java2blog.com/python-callback-function/)
 
 ## Data science topics
+- [What is Reinforcement Learning? With Examples](https://www.codecademy.com/article/what-is-reinforcement-learning-with-examples)
 - [Standard Normal Distribution Explained with Real-World Examples](https://www.codecademy.com/article/standard-normal-distribution-explained-with-real-world-examples)
 - [Differences Between Z-Test and T-Test](https://www.codecademy.com/article/differences-between-z-test-and-t-test).
 - [12 Bad Data Visualization Examples Explained](https://www.codeconquest.com/blog/12-bad-data-visualization-examples-explained/).
@@ -59,6 +62,7 @@ This repository contains links to my works at different websites. Following are 
 - [Difference Between Left Join and Left Outer Join in SQL](https://www.codecademy.com/article/difference-between-left-join-and-left-outer-join-in-sql).
 
 ## General Programming topics
+- [Kadane's Algorithm: Find Maximum Subarray Sum in an Array](https://www.codecademy.com/article/kadanes-algorithm-find-maximum-subarray-sum-in-an-array)
 - [FastAPI vs Flask: Key Differences, Performance, and Use Cases](https://www.codecademy.com/article/fastapi-vs-flask-key-differences-performance-and-use-cases)
 - [Effective Strategies For Debugging Code](https://www.codeconquest.com/blog/effective-strategies-for-debugging-code/).
 - [Code Refactoring Techniques Explained](https://www.codeconquest.com/blog/code-refactoring-techniques-explained/).
