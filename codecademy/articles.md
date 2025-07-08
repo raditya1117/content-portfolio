@@ -22,6 +22,10 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [Build an AI Travel Assistant With Google Agent Development Kit (ADK)](https://www.codecademy.com/article/build-an-ai-travel-assistant-with-google-agent-development-kit-adk)
+- [What is Reinforcement Learning? With Examples](https://www.codecademy.com/article/what-is-reinforcement-learning-with-examples)
+- [Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot](https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot)
+- [Kadane's Algorithm: Find Maximum Subarray Sum in an Array](https://www.codecademy.com/article/kadanes-algorithm-find-maximum-subarray-sum-in-an-array)
 - [Stochastic Gradient Descent (SGD) Explained With Implementation in R](https://www.codecademy.com/article/stochastic-gradient-descent-sgd-explained-with-implementation-in-r)
 - [Linear Regression with scikit-learn: A Step-by-Step Guide Using Python](https://www.codecademy.com/article/linear-regression-with-scikit-learn-a-step-by-step-guide-using-python)
 - [How to Use Model Context Protocol (MCP) with Claude](https://www.codecademy.com/article/how-to-use-model-context-protocol-mcp-with-claude-step-by-step-guide-with-examples)
