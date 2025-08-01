@@ -11,6 +11,9 @@ This repository contains links to my works at different websites. Following are 
 - [Machine-learning life-cycle management using MLflow](https://www.honeybadger.io/blog/machine-learning-lifecycle-management-using-mlflow/).
 
 ## Generative AI topics
+- [What is n8n: Build AI Workflows with n8n](https://www.codecademy.com/article/build-ai-workflows-with-n8n)
+- [Setup and Fine-Tune Qwen 3 with Ollama](https://www.codecademy.com/article/qwen-3-ollama-setup-and-fine-tuning)
+- [Prompt Engineering vs Fine Tuning: When to Use Each](https://www.codecademy.com/article/prompt-engineering-vs-fine-tuning)
 - [Build an AI Travel Assistant With Google Agent Development Kit (ADK)](https://www.codecademy.com/article/build-an-ai-travel-assistant-with-google-agent-development-kit-adk)
 - [Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot](https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot)
 - [How to Use Model Context Protocol (MCP) with Claude](https://www.codecademy.com/article/how-to-use-model-context-protocol-mcp-with-claude-step-by-step-guide-with-examples)
