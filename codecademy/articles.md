@@ -22,6 +22,9 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+- [What is n8n: Build AI Workflows with n8n](https://www.codecademy.com/article/build-ai-workflows-with-n8n)
+- [Setup and Fine-Tune Qwen 3 with Ollama](https://www.codecademy.com/article/qwen-3-ollama-setup-and-fine-tuning)
+- [Prompt Engineering vs Fine Tuning: When to Use Each](https://www.codecademy.com/article/prompt-engineering-vs-fine-tuning)
 - [Build an AI Travel Assistant With Google Agent Development Kit (ADK)](https://www.codecademy.com/article/build-an-ai-travel-assistant-with-google-agent-development-kit-adk)
 - [What is Reinforcement Learning? With Examples](https://www.codecademy.com/article/what-is-reinforcement-learning-with-examples)
 - [Prompt Engineering 101: Understanding Zero-Shot, One-Shot, and Few-Shot](https://www.codecademy.com/article/prompt-engineering-101-understanding-zero-shot-one-shot-and-few-shot)
