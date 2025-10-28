@@ -22,6 +22,14 @@ The following articles were written as a part of the above courses.
 - [Match Statements in Python](https://www.codecademy.com/courses/learn-python-3/articles/match-statements-in-python).
 
 ## Articles
+
+- [How do Vision Transformers Work? Architecture Explained](https://www.codecademy.com/article/vision-transformers-working-architecture-explained)
+- [Using DeepEval for Large Language Model (LLM) Evaluation in Python](https://www.codecademy.com/article/using-deepeval-for-llm-evaluation-python)
+- [LLM Evaluation: Metrics, Benchmarks & Best Practices](https://www.codecademy.com/article/llm-evaluation-metrics-benchmarks-best-practices)
+- [Transformer Architecture Explained With Self-Attention Mechanism](https://www.codecademy.com/article/transformer-architecture-self-attention-mechanism)
+- [How to Build RAG Pipelines in AI Applications?](https://www.codecademy.com/article/build-rag-pipelines-in-ai-applications)
+- [What is Retrieval-Augmented Generation (RAG) in AI?](https://www.codecademy.com/article/retrieval-augmented-generation-in-ai)
+- [What is a Vector Database in AI? How They Work](https://www.codecademy.com/article/what-is-vector-database)
 - [What is n8n: Build AI Workflows with n8n](https://www.codecademy.com/article/build-ai-workflows-with-n8n)
 - [Setup and Fine-Tune Qwen 3 with Ollama](https://www.codecademy.com/article/qwen-3-ollama-setup-and-fine-tuning)
 - [Prompt Engineering vs Fine Tuning: When to Use Each](https://www.codecademy.com/article/prompt-engineering-vs-fine-tuning)
